@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Caio Justino</h1>
 <h3 align="center">A student passionate about books and programming</h3><br>
 
-- 🌱 I’m currently learning **Flask**, **Laravel**
+- 🌱 I’m currently learning **Flask** and **Laravel**
 
 - 📫 How to reach me **justino.caio@hotmail.com**
 
