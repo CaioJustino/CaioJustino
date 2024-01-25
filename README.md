@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js** and **React**
 
-- 📫 How to reach me **justino.caio@hotmail.com**
+- 📫 How to reach me: **justino.caio@hotmail.com**
 
 <br><h3 align="left">Languages and Tools:</h3><br>
 
