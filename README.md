@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Caio Justino!</h1>
 <h3 align="center">A junior full stack developer specialized in web development.</h3><br>
 
-- 🌱 I’m currently learning **Flask**, **Bootstrap 5** and **Laravel**
+- 🌱 I’m currently learning **Node.js** and **React**
 
 - 📫 How to reach me **justino.caio@hotmail.com**
 
