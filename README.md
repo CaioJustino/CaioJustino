@@ -1,5 +1,5 @@
-<h1 align="center">Hi ✌️, I'm Caio Justino</h1>
-<h3 align="center">A dev passionate about books and programming</h3><br>
+<h1 align="center">Hi ✌️, I'm Caio Justino!</h1>
+<h3 align="center">A junior full stack developer specialized in web development.</h3><br>
 
 - 🌱 I’m currently learning **Flask**, **Bootstrap 5** and **Laravel**
 
