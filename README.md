@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
 </p><br>
 
-<h3 align="left">Connect with me:</h3><br>
+<h3 align="left">Connect with me!</h3><br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/caio-victor-alves-justino-0a0a94241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio victor alves justino" height="30" width="40" /></a>
