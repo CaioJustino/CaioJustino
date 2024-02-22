@@ -6,7 +6,7 @@
 
 <h1 align="center">Languages and Tools:</h1><br>
 
-<p align="center">Back-end</p>
+<p align="center">Back-end:</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,nodejs" />
