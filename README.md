@@ -27,17 +27,10 @@
   </a>
 </p><br>
 
-<p align="center">Web Design:</p>
+<p align="center">Extras:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-</p><br>
-
-<p align="center">Code:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,replit" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,replit" />
   </a>
 </p><br>
 
