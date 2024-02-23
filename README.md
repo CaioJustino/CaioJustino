@@ -20,7 +20,7 @@
   </a>
 </p><br>
 
-<p align="left">Database:</p>
+<p align="left">Banco de Dados:</p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
