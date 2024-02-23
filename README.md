@@ -1,6 +1,6 @@
 <h1 align="left">Atuação</h1>
 
-- Desenvolvedor de Software especializado em desenvolvimento web.<br>
+- Desenvolvedor Fullstack especializado em desenvolvimento web.<br>
 
 - E-mail: <b>justino.caio@hotmail.com</b></p><br>
 
