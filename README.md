@@ -1,6 +1,6 @@
 <h1 align="left">Oi, eu sou Caio Justino!</h1>
 
-- Um Desenvolvedor de Software especializado em desenvolvimento web.<br>
+- Desenvolvedor de Software especializado em desenvolvimento web.<br>
 
 - E-mail: <b>justino.caio@hotmail.com</b></p><br>
 
