@@ -4,7 +4,7 @@
 
 - E-mail: <b>justino.caio@hotmail.com</b></p><br>
 
-<h1 align="left">Linguagens e Ferramentas:</h1><br>
+<h1 align="left">Linguagens e Ferramentas</h1><br>
 
 <p align="left">Back-end:</p>
 <p align="left">
@@ -34,7 +34,7 @@
   </a>
 </p><br>
 
-<h1 align="left">Contato:</h1><br>
+<h1 align="left">Contato</h1><br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/caio-victor-alves-justino-0a0a94241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio victor alves justino" height="30" width="40" /></a>
