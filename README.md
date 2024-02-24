@@ -9,7 +9,7 @@
 <p align="left">Back-end:</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,nodejs,java" />
   </a>
 </p><br>
 
