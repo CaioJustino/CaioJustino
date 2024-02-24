@@ -2,7 +2,7 @@
 
 - Desenvolvedor Full Stack especializado em desenvolvimento web.<br>
 
-- Estudante do Curso de BTI (UFRN) | Técnico em Informática (IFRN).<br>
+- Acadêmico do Curso de BTI (UFRN) | Técnico em Informática (IFRN).<br>
 
 - E-mail: <b>justino.caio@hotmail.com</b></p><br>
 
