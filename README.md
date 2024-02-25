@@ -4,7 +4,7 @@
 
 - Acadêmico do Curso de BTI (UFRN) | Técnico em Informática para Internet (IFRN).<br>
 
-- E-mail: <b>justino.caio@hotmail.com</b></p><br>
+- E-mail: <b>justino.caio@hotmail.com</b></p>
 
 - Portfólio: <b>https://caiojustino.github.io/</b></p><br>
 
