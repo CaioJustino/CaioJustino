@@ -34,7 +34,7 @@
 <p align="left">Extras:</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,replit,git,gitlab" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,replit,git,gitlab,linux" />
   </a>
 </p><br>
 
