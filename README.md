@@ -13,14 +13,14 @@
 <p align="left">Back-end:</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,java" />
+    <img src="https://skillicons.dev/icons?i=python,flask,php,laravel" />
   </a>
 </p><br>
 
 <p align="left">Front-end:</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vuejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
   </a>
 </p><br>
 
